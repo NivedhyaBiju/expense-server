@@ -1,0 +1,5 @@
+Api request
+-----------
+
+1. Add expense - Post
+2. Access expense - Get
